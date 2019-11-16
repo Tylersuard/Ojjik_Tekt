@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>2019-07-07_06.54.12.jpeg</filename>
+	<path>C:\Users\Tyler\OneDrive\Desktop\Cat Tensorflow Training\Train\2019-07-07_06.54.12.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>820</width>
+		<height>616</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>325</ymin>
+			<xmax>553</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>
